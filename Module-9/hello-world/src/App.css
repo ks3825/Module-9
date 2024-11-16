@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #333;
+}
+
+.container {
+  text-align: center;
+  color: #00d8ff;
+  padding: 40px;
+}
+
+.react-logo {
+  width: 100px;
+  margin: 10px 0;
+}
+
+.hello-world {
+  background-color: #00d8ff;
+  color: black;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 30px;
+}
+
+
+
